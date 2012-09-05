@@ -30,10 +30,10 @@
 		B2D9BE3315F6927A00F55FD7 /* liblize.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = liblize.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B2D9BE3715F6927A00F55FD7 /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
 		B2D9BE3915F6927A00F55FD7 /* MacRuby.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MacRuby.framework; path = Library/Frameworks/MacRuby.framework; sourceTree = DEVELOPER_DIR; };
-		B2D9BE4015F6927A00F55FD7 /* liblize-Info.plist */ = {isa = PBXFileReference; path = "liblize-Info.plist"; sourceTree = "<group>"; };
+		B2D9BE4015F6927A00F55FD7 /* liblize-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "liblize-Info.plist"; sourceTree = "<group>"; };
 		B2D9BE4215F6927A00F55FD7 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		B2D9BE4415F6927A00F55FD7 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		B2D9BE4615F6927A00F55FD7 /* liblize-Prefix.pch */ = {isa = PBXFileReference; path = "liblize-Prefix.pch"; sourceTree = "<group>"; };
+		B2D9BE4615F6927A00F55FD7 /* liblize-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "liblize-Prefix.pch"; sourceTree = "<group>"; };
 		B2D9BE4915F6927A00F55FD7 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainMenu.xib; sourceTree = "<group>"; };
 		B2D9BE4C15F6927A00F55FD7 /* rb_main.rb */ = {isa = PBXFileReference; lastKnownFileType = text.script.ruby; path = rb_main.rb; sourceTree = "<group>"; };
 		B2D9BE4E15F6927A00F55FD7 /* AppDelegate.rb */ = {isa = PBXFileReference; lastKnownFileType = text.script.ruby; path = AppDelegate.rb; sourceTree = "<group>"; };
